@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm Currentrly working on a Laravel Project<br>🧑‍🤝‍🧑i'm looking to collaborate on a Fresh Laravel Project<br>🤝i'm looking for help with Frontend<br>🌱i'm currently learning the laravel<br>🗨️Ask me about anything
+Hello there I'm Jesse a student Software Development. i love development of code to create something beautiful. Especially when it is backend focused
 
 
 # 💻 Tech Stack:
