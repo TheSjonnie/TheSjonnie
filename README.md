@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there I'm Jesse a student Software Development. i love development of code to create something beautiful. Especially when it is backend focused
+Hey there! I'm Jesse, a dedicated Software Development student with a passion for creating beautiful and functional code. I especially enjoy working on the backend side.
 
 
 # 💻 Tech Stack:
